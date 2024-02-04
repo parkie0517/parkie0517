@@ -3,15 +3,15 @@
 
 **My goal is to develop a multimodal computer vision model that is robust to missing modalities and capable of making logical inferences.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parkie0517&label=Profile%20views&color=0e75b6&style=flat" alt="parkie0517" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkie0517%2Fparkie0517%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🤖 I’m currently learning **3D Computer Vision, Sensor Fusion for Autonomous Robots, and Prompt-Efficient Fine-Tuning**
 
-- ⏩ Some of my projects are available at [https://www.youtube.com/@parkie0517](https://www.youtube.com/@parkie0517)
+- ⏩ Some of my projects are available at **[https://www.youtube.com/@parkie0517](https://www.youtube.com/@parkie0517)**
 
-- 📝 I regularly write articles on [https://medium.com/@parkie0517](https://medium.com/@parkie0517)
+- 📝 I regularly write articles on **[https://medium.com/@parkie0517](https://medium.com/@parkie0517)**
 
-- 📫 Reach me at parkie0517@gmail.com
+- 📫 Reach me at **parkie0517@gmail.com**
 
 <p align="left">
 </p>
