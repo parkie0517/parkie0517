@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Heejun Park</h1>
-<h3 align="center">A passionate 3D Vision Engineer at SKKU AIM Lab</h3>
+<h3 align="center">A passionate 3D Vision Engineer at AIS Lab</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkie0517&label=Profile%20views&color=0e75b6&style=flat" alt="parkie0517" /> </p>
 
