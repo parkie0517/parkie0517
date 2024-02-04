@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@parkie0517](https://medium.com/@parkie0517)
 
-- 📫 How to reach me **parkie0517@gmail.com**
+- 📫 Reach me at parkie0517@gmail.com
 
 <p align="left">
 </p>
