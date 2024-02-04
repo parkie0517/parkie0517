@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkie0517&label=Profile%20views&color=0e75b6&style=flat" alt="parkie0517" /> </p>
 
-- 🌱 I’m currently learning **3D Computer Vision, Sensor Fusion for Autonomous Robots, and Prompt-Efficient Fine-Tuning**
+- 🤖 I’m currently learning **3D Computer Vision, Sensor Fusion for Autonomous Robots, and Prompt-Efficient Fine-Tuning**
 
-- 👨‍💻 Some of my projects are available at [https://www.youtube.com/@parkie0517](https://www.youtube.com/@parkie0517)
+- ⏩ Some of my projects are available at [https://www.youtube.com/@parkie0517](https://www.youtube.com/@parkie0517)
 
 - 📝 I regularly write articles on [https://medium.com/@parkie0517](https://medium.com/@parkie0517)
 
