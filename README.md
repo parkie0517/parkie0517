@@ -13,8 +13,7 @@
 
 - 📫 Reach me at **parkie0517@gmail.com**
 
-- 🙋🏻‍♂️ View my CV at **https://github.com/parkie0517/parkie0517/blob/main/%EB%B0%95%ED%9D%AC%EC%A4%80%20CV.pdf**
-
+- 🙋🏻‍♂️ View my CV at **https://github.com/parkie0517/parkie0517/blob/main/CV.pdf**
 <p align="left">
 </p>
 
