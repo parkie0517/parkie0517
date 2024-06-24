@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Heejun Park</h1>
-<h3 align="center">A passionate 3D Vision Engineer @ SKKU AIM Lab</h3>
+<h3 align="center">A passionate 3D Vision Engineer</h3>
 
 **My goal is to develop a multimodal computer vision model that is robust to missing modalities and capable of making logical inferences.**
 
