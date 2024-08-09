@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[https://medium.com/@parkie0517](https://medium.com/@parkie0517)**
 
-- 📫 Reach me at **parkie0517@gmail.com**
+- 📫 Reach me at **parkhee.ticket@kaist.ac.kr**
 
 - 🙋🏻‍♂️ View my CV at **https://github.com/parkie0517/parkie0517/blob/main/CV.pdf**
 <p align="left">
