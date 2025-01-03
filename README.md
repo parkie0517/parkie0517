@@ -7,13 +7,13 @@
 
 - 🤖 I’m currently researching **Multi-Sensor Fusion, 3D Reconstruction, and Parameter-Efficient Fine-Tuning**
 
-- ⏩ Some of my projects are available at **[https://www.youtube.com/@parkie0517](https://www.youtube.com/@parkie0517)**
+- ⏩ Some of my projects are available at my **[YouTube Channel](https://www.youtube.com/@parkie0517)**
 
-- 📝 I regularly write articles on **[https://medium.com/@parkie0517](https://medium.com/@parkie0517)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@parkie0517)**
 
-- 📫 Reach me at **parkhee.ticket@kaist.ac.kr**
+- 📫 Reach me through **[Linkedin](https://www.linkedin.com/in/parkheejun/)**
 
-- 🙋🏻‍♂️ View my CV at **https://github.com/parkie0517/parkie0517/blob/main/CV.pdf**
+- 🙋🏻‍♂️ You can also view my **[CV](https://github.com/parkie0517/parkie0517/blob/main/CV.pdf)**
 <p align="left">
 </p>
 
