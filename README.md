@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@parkie0517)**
 
-- 📫 Reach me through **[Linkedin](https://www.linkedin.com/in/parkheejun/)**
+- 📫 Reach me through **[LinkedIn](https://www.linkedin.com/in/parkheejun/)**
 
 - 🙋🏻‍♂️ You can also view my **[CV](https://github.com/parkie0517/parkie0517/blob/main/CV.pdf)**
 <p align="left">
