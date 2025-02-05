@@ -12,8 +12,6 @@
   >
 </a>
 
-
-
 - 🤖 I’m currently researching **Multi-Sensor Fusion, 3D Reconstruction, and Parameter-Efficient Fine-Tuning**
 
 - ⏩ Some of my projects are available at my **[YouTube Channel](https://www.youtube.com/@parkie0517)**
