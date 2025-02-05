@@ -20,7 +20,7 @@
 
 - 📫 Reach me through **[LinkedIn](https://www.linkedin.com/in/parkheejun/)**
 
-- 🙋🏻‍♂️ You can also view my **[CV](https://github.com/parkie0517/parkie0517/blob/main/CV.pdf)**
+- 🙋🏻‍♂️ You can also view my **[CV](https://github.com/parkie0517/parkie0517/blob/main/src/CV.pdf)**
 <p align="left">
 </p>
 
