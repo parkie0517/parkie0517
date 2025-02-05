@@ -9,6 +9,7 @@
     alt="Hits"
   >
 </a>
+
 **My goal is to develop a multimodal perception AI that is robust to missing modalities and capable of making logical inferences.**
 
 - 🤖 I’m currently researching **Multi-Sensor Fusion, 3D Reconstruction, and Parameter-Efficient Fine-Tuning**
