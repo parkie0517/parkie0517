@@ -4,7 +4,7 @@
 
 **My goal is to develop a multimodal perception AI that is robust to missing modalities and capable of making logical inferences.**
 
-- 🤖 I’m currently researching **Multi-Sensor Fusion, VLM, and Parameter-Efficient Fine-Tuning**
+- 🤖 I’m currently researching **Multi-Sensor Fusion, VLM, and End-to-End Autonomous Driving**
 
 - ⏩ Some of my projects are available at my **[YouTube Channel](https://www.youtube.com/@parkie0517)**
 
